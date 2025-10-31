@@ -1,1 +1,1 @@
-# OllamaChat_Accessing-Local-Ollama-Models-via-Code
+# Ollama chat_Accessing Local Ollama Models via code
